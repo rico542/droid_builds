@@ -1,5 +1,6 @@
-# bash_history
+### bash_history
 
+```
 LC_ALL=C
 LANG=C
 export LC_ALL LANG
@@ -12,3 +13,4 @@ source build/envsetup.sh
 breakfast vegetalte
 croot
 brunch vegetalte
+```
